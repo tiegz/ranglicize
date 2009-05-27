@@ -1,1 +1,11 @@
-Hi.
+ranglicize
+    by Tieg Zaharia
+    http://github.com/tiegz/ranglicize
+ 
+== DESCRIPTION:
+ 
+Ranglicize is a Ruby library that will anglicize non-English characters.
+
+== REQUIREMENTS:
+ 
+* ActiveSupport (2.3.2, but really any version with Multibyte)
